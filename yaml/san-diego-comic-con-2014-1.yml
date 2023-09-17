@@ -1,0 +1,124 @@
+---
+object: card
+id: 31477c26-2256-4c66-a15b-8a16431fffdb
+oracle_id: 90249526-1875-450a-882d-bf6f6bfd37a6
+multiverse_ids: []
+tcgplayer_id: 91630
+cardmarket_id: 268105
+name: Ajani Steadfast
+lang: en
+released_at: '2014-07-08'
+uri: https://api.scryfall.com/cards/31477c26-2256-4c66-a15b-8a16431fffdb
+scryfall_uri: https://scryfall.com/card/ps14/1/ajani-steadfast?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/1/31477c26-2256-4c66-a15b-8a16431fffdb.jpg?1561756872
+  normal: https://cards.scryfall.io/normal/front/3/1/31477c26-2256-4c66-a15b-8a16431fffdb.jpg?1561756872
+  large: https://cards.scryfall.io/large/front/3/1/31477c26-2256-4c66-a15b-8a16431fffdb.jpg?1561756872
+  png: https://cards.scryfall.io/png/front/3/1/31477c26-2256-4c66-a15b-8a16431fffdb.png?1561756872
+  art_crop: https://cards.scryfall.io/art_crop/front/3/1/31477c26-2256-4c66-a15b-8a16431fffdb.jpg?1561756872
+  border_crop: https://cards.scryfall.io/border_crop/front/3/1/31477c26-2256-4c66-a15b-8a16431fffdb.jpg?1561756872
+mana_cost: "{3}{W}"
+cmc: 4.0
+type_line: Legendary Planeswalker — Ajani
+oracle_text: |-
+  +1: Until end of turn, up to one target creature gets +1/+1 and gains first strike, vigilance, and lifelink.
+  −2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.
+  −7: You get an emblem with "If a source would deal damage to you or a planeswalker you control, prevent all but 1 of that damage."
+loyalty: '4'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: e9f9aebc-6eb8-4325-801f-ad2fbbf391b2
+  component: combo_piece
+  name: Ajani Steadfast Emblem
+  type_line: Emblem — Ajani
+  uri: https://api.scryfall.com/cards/e9f9aebc-6eb8-4325-801f-ad2fbbf391b2
+- object: related_card
+  id: 31477c26-2256-4c66-a15b-8a16431fffdb
+  component: combo_piece
+  name: Ajani Steadfast
+  type_line: Legendary Planeswalker — Ajani
+  uri: https://api.scryfall.com/cards/31477c26-2256-4c66-a15b-8a16431fffdb
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: '09d844de-a5ec-401c-9b0f-f99be569b8f9'
+set: ps14
+set_name: San Diego Comic-Con 2014
+set_type: promo
+set_uri: https://api.scryfall.com/sets/09d844de-a5ec-401c-9b0f-f99be569b8f9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps14&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps14?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/31477c26-2256-4c66-a15b-8a16431fffdb/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A90249526-1875-450a-882d-bf6f6bfd37a6&unique=prints
+collector_number: '1'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jae Lee
+artist_ids:
+- af82d66a-8655-42b5-b1f1-4347ac675b4d
+illustration_id: 6ecd36b5-2d23-4870-a3cb-f510d93ba553
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- convention
+edhrec_rank: 4125
+penny_rank: 6941
+prices:
+  usd: 
+  usd_foil: '42.92'
+  usd_etched: 
+  eur: 
+  eur_foil: '30.40'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ajani+Steadfast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ajani+Steadfast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ajani+Steadfast
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/91630?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ajani+Steadfast&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ajani+Steadfast&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

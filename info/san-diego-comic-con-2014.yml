@@ -1,0 +1,15 @@
+---
+object: set
+id: '09d844de-a5ec-401c-9b0f-f99be569b8f9'
+code: ps14
+name: San Diego Comic-Con 2014
+uri: https://api.scryfall.com/sets/09d844de-a5ec-401c-9b0f-f99be569b8f9
+scryfall_uri: https://scryfall.com/sets/ps14
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aps14&unique=prints
+released_at: '2014-07-08'
+set_type: promo
+card_count: 6
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800
